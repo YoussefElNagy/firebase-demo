@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309397540968",
+    "project_id": "firenog-6969",
+    "storage_bucket": "firenog-6969.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309397540968:android:324d11622733f03dca2bdd",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgetWnMRiYSP3dqtQKQ50B8pt-bdMZOUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
